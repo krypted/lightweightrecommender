@@ -1,0 +1,4 @@
+numpy
+gensim
+nltk==3.4.5
+textblob==0.15.3
