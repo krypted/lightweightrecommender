@@ -2,9 +2,13 @@
 A generic recommendation script built to run as a lambda or gcf
 
 ## Requirements
+
 numpy
+
 gensim
+
 nltk==3.4.5
+
 textblob==0.15.3
 
 
